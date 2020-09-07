@@ -1,0 +1,118 @@
+page_title: <title>Why You Should Stop Sending Texts From Your Android Messages App</title>
+paragraphs:
+- Getty
+- "If there\u2019s a glaring issue with a widely used technology now undergoing a\
+  \ major upgrade, you\u2019d think the glaring issue would be fixed. Well, apparently\
+  \ not. If you\u2019re an Android user, then Google either just has or is just about\
+  \ to update your device\u2019s Messages app with its answer to Apple\u2019s brilliant\
+  \ iMessage. Dubbed RCS or Rich Communication Services, this will update your phone\u2019\
+  s basic default messenger into a fully-featured chat platform to compete with iMessage\
+  \ as well as WhatsApp and Facebook Messenger."
+- "Messaging has become a battlefield, with Apple and Google battling Facebook (both\
+  \ Messenger and WhatsApp) to be the go-to platform on your phone. There are few\
+  \ stickier apps than the one you use to chat with friends, family and colleagues.\
+  \ And as new functionality becomes more commercial\u2014ticketing, coupons, purchases,\
+  \ transfers and ads, this becomes a real money-spinner."
+- "As reported this week, ever more countries are becoming RCS enabled\u2014recent\
+  \ updates have appeared in Argentina, Chile, Denmark, Italy, Norway, Pakistan, Poland,\
+  \ Portugal and Singapore. Although RCS is being deployed by carriers around the\
+  \ world, it is Google driving the rollout\u2014it needs to level the playing field\
+  \ with Apple. RCS is the long-awaited upgrade to the standard SMS capability built\
+  \ into our phones. SMS is a basic tech that\u2019s really best avoided\u2014and\
+  \ unfortunately RCS hasn\u2019t fixed one of its most critical issues."
+- "Putting animated stickers and easy-to-reach GIFs to one side, messaging comes down\
+  \ to a balancing act between functionality, security and install base: The install\
+  \ base across the platforms from BigTech\u2014Facebook Messenger, WhatsApp, iMessage\
+  \ and Google Messages is clearly good\u2014albeit Facebook requires an \u201Cover-the-top\u201D\
+  \ service, rather than the fallback to network SMS used by Apple and Google. Functionality\
+  \ is good across the board and getting better all the time. But on the security\
+  \ front, there\u2019s still a major difference."
+- "The original and still most universal global messaging platform is SMS\u2014the\
+  \ standard text messenger available on GSM phones. Both Apple and Google use SMS\
+  \ as a fallback for those without iMessage, where Apple is concerned, or without\
+  \ the upgraded chat functions offered by Google, which are built around that new\
+  \ RCS tech. But RCS is not an iMessage equivalent\u2014it\u2019s completely different\
+  \ and has a glaring issue. Android users should turn to WhatsApp or Signal instead\
+  \ of using Android\u2019s Messages app."
+- "When you send an SMS, the data is encrypted between your phone and the cell tower\u2014\
+  it can\u2019t easily be intercepted over the air, as such. But that\u2019s simple\
+  \ network security. Once the SMS has disappeared into the network, it is open to\
+  \ interception. And given we text people on different networks and in different\
+  \ countries, your SMS can travel across a hotchpotch of different network servers\
+  \ and systems. You can see the issue. Last year, I reported on a Chinese cyberattack\
+  \ on global carriers pulling SMS from senders and recipients at will."
+- "Back in 2016, WhatsApp fixed this by defaulting to what\u2019s called end-to-end\
+  \ encryption. Many reading this will know exactly what this means\u2014but a surprising\
+  \ number of users are still unaware of the differences. What it means, put simply,\
+  \ is that the message is secured with only the sender and the recipient holding\
+  \ the decryption key. No-one\u2014including the network and WhatsApp\u2014can see\
+  \ what you have sent. iMessage does exactly the same\u2014as long as it\u2019s that\
+  \ blue bubble, once you go green and SMS, then all bets are off."
+- "You can see the issue. Google has decided to adopt an updated SMS architecture,\
+  \ to work with the carriers rather than providing Android with an \u201Cover the\
+  \ top\u201D equivalent to iMessage. Your message is encrypted between your phone\
+  \ and Google\u2019s servers, but that message can be decrypted en route\u2014you\u2019\
+  re not the only one with the key. And if the message links in with other RCS deployments,\
+  \ then it\u2019s as unsecured as an SMS. You can control when iMessage uses SMS\u2014\
+  you don\u2019t have that easy flexibility with Google Messages\u2019 use of RCS.\
+  \ As Google says, \u201Cif your chat features are provided by Google, but your recipient\u2019\
+  s RCS service is with another provider, your messages are routed through Google\u2019\
+  s RCS backend and then routed to your recipient's RCS backend.\u201D"
+- "Last year, Germany\u2019s SRLabs warned that deploying RCS as an SMS upgrade without\
+  \ a new approach to security \u201Cexposes most mobile users to hacking.\u201D The\
+  \ researchers warned that the way in which Google and the carriers were deploying\
+  \ RCS would open users to impersonation\u2014mimicking the number and IP address\
+  \ of a device, interception and tracking. RCS provisioning \u201Cis badly protected\
+  \ in many networks,\u201D the team said, \u201Callowing hackers to\_fully take over\
+  \ user accounts.\u201D And Google Messages \u201Cdoes not implement sufficient domain\
+  \ and certificate validation, enabling hackers to intercept and manipulate communication\_\
+  through a DNS spoofing attack.\u201D"
+- "I asked Google whether it has addressed any of the security issues raised by SRLabs\u2014\
+  there has been no response as yet."
+- "The technical details don\u2019t especially matter here. The fact is that either\
+  \ your messages are end-to-end encrypted or they\u2019re not. And while you probably\
+  \ think that most of your messages don\u2019t warrant security, we all send financial\
+  \ details, contact details and other sensitive information over messengers. We use\
+  \ messengers to chat with work colleagues. We expect they\u2019re secure from prying\
+  \ eyes."
+- "As Google explains, its security focuses on the connection between you and Google,\
+  \ not what happens after that: \u201CChat features by Google uses Transport Layer\
+  \ Security (TLS) encryption to protect your messages. This means that anyone trying\
+  \ to intercept messages between you and Google would only be able to see encrypted,\
+  \ unreadable text... RCS is an industry standard for operator messaging. This means\
+  \ that messaging apps that support RCS standard, like Samsung Messages, may connect\
+  \ to chat features by Google.\u201D"
+- "Facebook and WhatsApp have both warned that end-to-end encryption is a necessary\
+  \ security measure to stop content \u201Cfalling into the wrong hands,\u201D Facebook\
+  \ even advocates the secret messages feature in its own Messenger to \u201Cmitigate\
+  \ the compromise of server and networking infrastructure used by Messenger\u2014\
+  Facebook\u2019s included.\u201D Messenger isn\u2019t end-to-end encrypted by default,\
+  \ and users should switch to WhatsApp. RCS is even worse\u2014at least Facebook\
+  \ is a single provider and doesn\u2019t push content outside its own control."
+- "Google is reportedly developing an end-to-end encryption upgrade for its RCS deployment\u2014\
+  and when that\u2019s done, this advice will change and Android users will have an\
+  \ iMessage alternative. Until then, though, I strongly advise you to ensure your\
+  \ go-to messenger is fully encrypted. WhatsApp is likely your best option\u2014\
+  it\u2019s ubiquitous and has all the features you need. It\u2019s also due a bunch\
+  \ of feature upgrades, including multiple linked devices, which will make it even\
+  \ better. But if you balk at the idea of Facebook accessing your data\u2014albeit\
+  \ I\u2019m not sure Google is a much better option\u2014then go for Signal, the\
+  \ all round best messenger available today."
+- "I am the Founder/CEO of  Digital Barriers\u2014developing advanced surveillance\
+  \ solutions for defence, national security and counter-terrorism. I write about\
+  \ the intersection\u2026"
+- "I am the Founder/CEO of  Digital Barriers\u2014developing advanced surveillance\
+  \ solutions for defence, national security and counter-terrorism. I write about\
+  \ the intersection"
+- "I am the Founder/CEO of  Digital Barriers\u2014developing advanced surveillance\
+  \ solutions for defence, national security and counter-terrorism. I write about\
+  \ the intersection of geopolitics and cybersecurity, and analyze breaking security\
+  \ and surveillance stories. Contact me at zakd@me.com."
+- "I am the Founder/CEO of  Digital Barriers\u2014developing advanced surveillance\
+  \ solutions for defence, national security and counter-terrorism. I write about\
+  \ the intersection of geopolitics and cybersecurity, and analyze breaking security\
+  \ and surveillance stories. Contact me at zakd@me.com."
+scrape_date: 1598887523.1113555
+title: Why You Should Stop Sending Texts From Your Android Messages App
+url: https://www.forbes.com/sites/zakdoffman/2020/08/30/google-android-messages-apple-iphone-ipad-imessage-security-update-sms-rcs-whatsapp-encryption/
+

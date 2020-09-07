@@ -1,0 +1,66 @@
+page_title: "<title>Even Google engineers are confused about Google\u2019s privacy\
+  \ settings - The Verge</title>"
+paragraphs:
+- 'Filed under:'
+- "\u201CThe current UI feels like it is designed to make things possible, yet difficult\
+  \ enough that people won\u2019t figure it out.\u201D"
+- "Google\u2019s privacy settings don\u2019t just confuse its users \u2014 they confuse\
+  \ its employees too, according to internal documents unsealed in a lawsuit over\
+  \ Google\u2019s data collection."
+- "\u201CThe current UI feels like it is designed to make things possible, yet difficult\
+  \ enough that people won\u2019t figure it out,\u201D one Google employee said, according\
+  \ to the heavily redacted documents that were newly unsealed today. The lawsuit\
+  \ was originally filed by Arizona Attorney General Mark Brnovich in May; the new\
+  \ information in the unsealed documents was first reported on by The Arizona Mirror."
+- "\u201CEven top-level Google employees do not understand under what conditions Google\
+  \ collects location data,\u201D Brnovich and his team wrote in the complaint."
+- "The Arizona investigation was kicked off by a 2018 Associated Press article showing\
+  \ that Google services will store location data from your Android device or iPhone\
+  \ \u2014 even if you \u201Cpause\u201D a setting called \u201CLocation History.\u201D\
+  \ Even with that setting switched off, some Google apps automatically store location,\
+  \ along with a timestamp, anyway."
+- "\u201CI agree with the article,\u201D a Google employee wrote in the documents\
+  \ released today. \u201CLocation off should mean location off; not except for this\
+  \ case or that case.\u201D"
+- "Google says it is cooperating with the Arizona attorney general, and has supplied\
+  \ documents and answered questions raised by investigators. \u201CPrivacy controls\
+  \ have long been built into our services and our teams work continuously to discuss\
+  \ and improve them,\u201D says Jose Castaneda, a spokesperson for Google. \u201C\
+  In the case of location information, we\u2019ve heard feedback, and have worked\
+  \ hard to improve our privacy controls. In fact, even these cherry picked published\
+  \ extracts state clearly that the team\u2019s goal was to \u2018Reduce confusion\
+  \ around Location History Settings\u2019.\u201D"
+- "The outrage over the way Google hid extra location settings in \u201CWeb and App\
+  \ activity\u201D  \u2014 deep in Google account settings \u2014 did eventually lead\
+  \ the company to improve how it surfaces its privacy toggles. Small changes over\
+  \ the past couple of years culminated in Google\u2019s current policy, which is\
+  \ auto deleting location and search history by default for new users. Current users\
+  \ still need to visit their Activity Controls page to alter their settings."
+- But though Google has made changes, there is still obviously much more that it could
+  do. The documents from the Arizona lawsuit make plain the confusion that users experience.
+- "For instance, Google serves personalized ads to its users, and part of what it\
+  \ uses to personalize those ads are location data. It\u2019s possible to turn off\
+  \ ad personalization by switching off a setting \u2014 but the complaint argues\
+  \ that won\u2019t stop Google from serving you ads based on your location, it just\
+  \ means Google will assume that you\u2019re within a general three kilometer area\
+  \ instead of using your exact GPS location on a map."
+- "What\u2019s more, switching off this setting apparently doesn\u2019t change things\
+  \ for Google\u2019s other ad service, DoubleClick, which is used to show ads on\
+  \ other websites. Removing location information from those ads requires a different\
+  \ user interface, and Google will still use general location information to target\
+  \ users."
+- "The settings for DoubleClick have no effect on Google ad personalization, the complaint\
+  \ says. \u201CThus, a user who thought she had opted out of receiving ads based\
+  \ on her location is wrong on two counts: Google still serves her location-based\
+  \ ads (based on her coarse location) via that same offered such a setting daily\
+  \ basis,\u201D the complaint reads. \u201CAt the same time, through these deceptive\
+  \ and unfair acts and practices, Google makes it impractical if not impossible for\
+  \ users to meaningfully opt-out of Google\u2019s collection of location information,\
+  \ should the users seek to do so.\u201D"
+- "Update August 26, 6:55PM ET: Adds Google spokesperson\u2019s comments."
+- Related
+- A newsletter about computers
+scrape_date: 1598887523.5620925
+title: "Even Google engineers are confused about Google\u2019s privacy settings"
+url: https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick
+
